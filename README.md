@@ -42,13 +42,13 @@ Allows you to play
 
 # UPCOMING
 
-# AUTO JOINER (BOT)
+## AUTO JOINER (BOT)
 ## WHAT DOES THIS MEAN?
 - Allows you to run a bot constantly throughout servers playing all your audio files
 -# yeah people dont like this but whatever
 
-# AUTO MOD BYPASSER
+## AUTO MOD BYPASSER
 - Bypasses the Auto Mod (Voice Chat Bans) so you can play songs with swears,slurs,etc (Working?)
 
-# CUSTOM ROOM JOINER
+## CUSTOM ROOM JOINER
 - Just like AUTO JOINER but instead it goes through custom codes such as, any ghost code, mods, mod, etc...
