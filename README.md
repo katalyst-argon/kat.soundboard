@@ -40,12 +40,15 @@ Allows you to play
 
 
 
-# UPCOMING
+# EXPERIMENTAL
 
 ## AUTO JOINER (BOT)
 ## WHAT DOES THIS MEAN?
 - Allows you to run a bot constantly throughout servers playing all your audio files
 - yeah people dont like this but whatever
+- Allowed to exclude certain audios 
+
+# UPCOMING
 
 ## AUTO MOD BYPASSER
 - Bypasses the Auto Mod (Voice Chat Bans) so you can play songs with swears,slurs,etc (Working?)
