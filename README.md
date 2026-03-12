@@ -1,57 +1,43 @@
 # kat.soundboard
 Fully AI intelligent soundboard used for the Virtual Reality Game; Gorilla Tag.
 
-# FEATURES
+# F6 TO TOGGLE/DISABLE
 
-## Opening/Closing the GUI
-- F6 to Open
-- F6 to Close
+# PAGE 1 - SOUNDS
+- Search bar: search for certain songs
+- R: button located on the right side of search; refreshes the Sounds list if new songs are added
+- Preset: Certain audio presets
+Flat: Default
+Nightcore: Sped-up
+Slowed: Slowed-down
+8D Audio: Sinewave
+Vaporwave: Sped-up
+- Sounds: all your sounds you have located in your "Soundboard" folder
+- Play all: Plays all sounds
+- Copy Songs: copies all songs and sends them to discord webhook!
+- Loop: Repeatedly loops the song in choice
+- Play: Plays the sound/song/audio
 
-## Sounds Page
-- Allows you to add any sound to the GUI by putting a mp3,wav,ogg, or aiff
-- Play All; Plays all Sound files (you can interupt it and stop whenever)
-- Copy Songs
-- Preset
-Flat (Default Audio)
-Nightcore (1.75x Speed)
-Slowed (0.80x Speed)
-8D Audio (Audio that moves around your headset) (Working?)
-Vaporwave (Slowed Audio)
-- Search: Allows you to search for specific songs (Not Case Sensitive)
-- Refresh Button: Located on the right of Search: Refreshed the Soundboard folder if you added audio files!
-- TTS: Refer to *TTS PAGE* for more info!
-- Repeat: Repeatedly plays the song (Working?)
+# PAGE 2 - TTS (Text-To-Speech)
+- Custom Text To Speech: input any text, click speak and it will play that audio through TTS
+- ON-JOIN ANNOUNCEMENT: Plays a TTS 8 seconds after joining a lobby
 
-## TTS Page (Text To Speech)
-Allows you to play
-- Custom TTS (your own text)
-- Song TTS (Reads off the name of the song file)
+# PAGE 3 - GENRES
+- Add: adds a genre of your choice (you can name it whatever you want)
+- Filter: basically a search if you have many genres
 
-## Genre Page
-- Allows you to create custom Genres for songs
-- Allows you to play that Genre and that Genre only.
+# PAGE 4 - BOT
+- Info: Bot is Idle/Active; says what number bot it is (basically 1 bot = 1st room)
+- Start Bot: enables the bot and instantly starts (Joins room and plays the selected music)
+- Songs: toggling what songs it should play
+- All ON/OFF: turns all songs to play/all songs to exclude
 
-## Settings Page
-- Volume: Changes how quiet and how loud the audio can be
-- Folder: Directory of your Soundboard folder (allows you to open it if you cannot find it)
-- TTS Voice: Allows you to change the voice of the TTS (Female,Male,Etc.)
-- Discord Webhook: Allows you to send the list of songs to a Discord Webhook!
-- Info: Just Info
-
-
-
-# EXPERIMENTAL
-
-## AUTO JOINER (BOT)
-## WHAT DOES THIS MEAN?
-- Allows you to run a bot constantly throughout servers playing all your audio files
-- yeah people dont like this but whatever
-- Allowed to exclude certain audios 
-
-# UPCOMING
-
-## AUTO MOD BYPASSER
-- Bypasses the Auto Mod (Voice Chat Bans) so you can play songs with swears,slurs,etc (Working?)
-
-## CUSTOM ROOM JOINER
-- Just like AUTO JOINER but instead it goes through custom codes such as, any ghost code, mods, mod, etc...
+# PAGE 5 - SETTINGS
+- Volume: How loud you want the music (globally)
+- Discord Webhook: Used to Copy Songs as it says in PAGE 1
+- Lobby Tracker Webhook: Sends message through webhook when you or the bot joins/leaves a code
+- Voice: Changes the voice of the TTS (Brain = Default)
+- Announce before playing: Says "Now playing (song)" then plays the song
+- HQ MIC: High Quality Microphone (Genuinely dont know if this works, please tell me)
+- BYPASS: Bypasses Auto Mod (Voice Bans) (Also Genuinely dont know if this works, please tell me)
+- Sounds Folder: just the directory to the "Soundboard" folder
